@@ -6,7 +6,7 @@ Custom Software Development for U.S. Businesses
 
 <p align="center">
 <a href="https://apexcodix.com">Website</a> •
-<a href="https://github.com/apexcodix">GitHub</a>
+<a href="https://github.com/apexcodix-it">GitHub</a>
 </p>
 
 ---
