@@ -81,7 +81,7 @@ https://apexcodix.com
 
 For partnership or project inquiries:
 
-**Business Email:** contact@apexcodix.com  
+**Business Email:** hello@apexcodix.com  
 **Website:** https://apexcodix.com
 
 ---
